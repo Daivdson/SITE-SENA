@@ -1,0 +1,531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Akyra\n"
+"POT-Creation-Date: 2016-02-02 12:44+0530\n"
+"PO-Revision-Date: 2016-02-02 12:45+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:34
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:35
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+
+#: archive.php:46
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:48
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:50
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:52
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:71 author.php:67 category.php:57 index.php:52 search.php:40
+#: tag.php:46
+msgid "Next Post <i class=\"fa fa-long-arrow-right\"></i>"
+msgstr ""
+
+#: archive.php:73 author.php:69 category.php:59 index.php:54 search.php:42
+#: tag.php:48
+msgid "<i class=\"fa fa-long-arrow-left\"></i> Previous Post"
+msgstr ""
+
+#: attachment.php:35
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+#: attachment.php:38
+#, php-format
+msgid "<span>&larr;</span> %s"
+msgstr ""
+
+#: attachment.php:43
+#, php-format
+msgid "By %2$s"
+msgstr ""
+
+#: attachment.php:49
+#, php-format
+msgid "Published %2$s"
+msgstr ""
+
+#: attachment.php:55
+#, php-format
+msgid "Full size is %s pixels"
+msgstr ""
+
+#: attachment.php:55
+msgid "Link to full-size image"
+msgstr ""
+
+#: attachment.php:60 attachment.php:100
+msgid "Edit"
+msgstr ""
+
+#: attachment.php:98
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: attachment.php:99
+msgid "Pages:"
+msgstr ""
+
+#: author.php:42
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: author.php:48
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: category.php:37
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:13
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:16
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:25
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:26
+msgid "One Response"
+msgstr ""
+
+#: comments.php:27
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:28
+msgid "so far."
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:51
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:81
+msgid "LEAVE A COMMENT"
+msgstr ""
+
+#: comments.php:82
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:86
+msgid "Your Name*"
+msgstr ""
+
+#: comments.php:91
+msgid "E-mail*"
+msgstr ""
+
+#: comments.php:96
+msgid "Website"
+msgstr ""
+
+#: comments.php:100
+msgid "Comment*"
+msgstr ""
+
+#: footer.php:8
+msgid "Copyright &#169; 2016 All Rights Reserved."
+msgstr ""
+
+#: footer.php:10
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:10
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:10
+msgid "Theme by"
+msgstr ""
+
+#: footer.php:10
+msgid "Arinio"
+msgstr ""
+
+#: functions.php:28
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:29
+msgid "Secondary menu  for footer menu"
+msgstr ""
+
+#: functions.php:99
+msgid "Home"
+msgstr ""
+
+#: functions.php:103
+msgid "attachment:"
+msgstr ""
+
+#: functions.php:113
+msgid "Category By:"
+msgstr ""
+
+#: functions.php:132
+msgid "Search Results for..."
+msgstr ""
+
+#: functions.php:138 functions.php:139 functions.php:140
+msgid "Archive for "
+msgstr ""
+
+#: functions.php:141
+msgid "Author Archive for "
+msgstr ""
+
+#: functions.php:141
+#, php-format
+msgid " %s"
+msgstr ""
+
+#: functions.php:145
+msgid "Search Results for \""
+msgstr ""
+
+#: functions.php:161 functions.php:163
+msgid ", "
+msgstr ""
+
+#: functions.php:174
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions.php:180 functions.php:182
+#, php-format
+msgid ""
+"<div class=\"post-category\"> Posted in : %1$s  on %3$s </div><div class="
+"\"post-author\"> by : %4$s </div> <div class=\"post-comment\"> Comments: <a "
+"href=\"#\">"
+msgstr ""
+
+#: functions.php:184
+#, php-format
+msgid ""
+"<div class=\"post-category\"> Posted on : %3$s </div><div class=\"post-author"
+"\"> by : %4$s </div> <div class=\"post-comment\"> Comments: <a href=\"#\">"
+msgstr ""
+
+#: functions.php:212
+msgid "Content Sidebar"
+msgstr ""
+
+#: functions.php:214
+msgid "Additional sidebar that appears on the right."
+msgstr ""
+
+#: functions.php:284
+msgid "Enter Your Comments"
+msgstr ""
+
+#: inc/akyra-admin_page.php:210
+msgid "AR Theme Details"
+msgstr ""
+
+#: inc/akyra-admin_page.php:215
+msgid "Thank you for using Akyra Theme :)"
+msgstr ""
+
+#: inc/akyra-admin_page.php:219
+msgid "View Theme Demo"
+msgstr ""
+
+#: inc/akyra-admin_page.php:223
+msgid ""
+"You can see more feature & functionality in our PRO Virsion. Watch the Demo "
+"by clicking the link below."
+msgstr ""
+
+#: inc/akyra-admin_page.php:227 inc/customizer.php:32
+msgid "View Demo"
+msgstr ""
+
+#: inc/akyra-admin_page.php:231
+msgid "Get Pro Free This Theme"
+msgstr ""
+
+#: inc/akyra-admin_page.php:235
+msgid ""
+"If you want to get Pro version of this theme Totally Free. Click the link "
+"below."
+msgstr ""
+
+#: inc/akyra-admin_page.php:239
+msgid "Read More"
+msgstr ""
+
+#: inc/akyra-admin_page.php:243
+msgid "View More Our Themes"
+msgstr ""
+
+#: inc/akyra-admin_page.php:247
+msgid ""
+"Want to see more our themes you simply visit our site. Click the link below."
+msgstr ""
+
+#: inc/akyra-admin_page.php:251
+msgid "Visit Site"
+msgstr ""
+
+#: inc/akyra-admin_page.php:255
+msgid "Get Akyra PRO Theme! Just $19"
+msgstr ""
+
+#: inc/akyra-admin_page.php:259
+msgid ""
+"You are using the Akyra, Free Version of Akyra Pro Theme. Upgrade to Pro for "
+"extra features like Home Page Unlimited Slider, Work Gallery, Team section, "
+"Client Section, Contact Page and many more Page Templates, Social Link "
+"Section, Life time theme support and much more."
+msgstr ""
+
+#: inc/akyra-admin_page.php:270
+msgid "Upgrade to Akyra PRO"
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "Get Akyra PRO Theme!  Just $19"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Upgrade to Akyra PRO Theme"
+msgstr ""
+
+#: inc/customizer.php:25
+msgid "View More our themes"
+msgstr ""
+
+#: inc/customizer.php:29
+msgid "Free Support"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Get Free Pro Version"
+msgstr ""
+
+#: inc/customizer.php:58
+msgid "Akyra Support"
+msgstr ""
+
+#: inc/customizer.php:59
+msgid ""
+"You are using the Akyra, Free Version of Akyra Pro Theme. Upgrade to Pro for "
+"extra features like Home Page Unlimited Slider, Work Gallery, Team section, "
+"Client Section and Life time theme support and much more. "
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Akyra Upgrade"
+msgstr ""
+
+#: inc/customizer.php:99
+msgid "Basic Setting"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "This Is a Basic Setting Section For Frontpage"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Site Logo"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Favicon"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:168
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:231
+msgid "Slider 1"
+msgstr ""
+
+#: inc/customizer.php:232
+msgid "Slider 2"
+msgstr ""
+
+#: inc/customizer.php:236
+msgid "Slider Setting"
+msgstr ""
+
+#: inc/customizer.php:237
+msgid "You can upload here images for slider"
+msgstr ""
+
+#: inc/customizer.php:263
+msgid "File Upload"
+msgstr ""
+
+#: inc/customizer.php:273 inc/customizer.php:383 inc/customizer.php:388
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:278
+msgid "Slider Title"
+msgstr ""
+
+#: inc/customizer.php:288 inc/customizer.php:400 inc/customizer.php:459
+msgid "Description"
+msgstr ""
+
+#: inc/customizer.php:294
+msgid "Slider Description"
+msgstr ""
+
+#: inc/customizer.php:326 template-front-page.php:78
+msgid "Icon 1"
+msgstr ""
+
+#: inc/customizer.php:327 template-front-page.php:79
+msgid "Icon 2"
+msgstr ""
+
+#: inc/customizer.php:328 template-front-page.php:80
+msgid "Icon 3"
+msgstr ""
+
+#: inc/customizer.php:334
+msgid "Services Setting"
+msgstr ""
+
+#: inc/customizer.php:335
+msgid ""
+"This is a Services settings section to change the servise section Details."
+msgstr ""
+
+#: inc/customizer.php:368
+msgid "Font class Name"
+msgstr ""
+
+#: inc/customizer.php:373
+msgid "Class Name"
+msgstr ""
+
+#: inc/customizer.php:406
+msgid "Services Description"
+msgstr ""
+
+#: inc/customizer.php:440
+msgid "Heading"
+msgstr ""
+
+#: inc/customizer.php:449
+msgid "Main Heading"
+msgstr ""
+
+#: inc/customizer.php:468
+msgid "Main Description"
+msgstr ""
+
+#: loop.php:44 single.php:76
+msgid "Sorry no post matched your criteria"
+msgstr ""
+
+#: search.php:29
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:6
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Categories"
+msgstr ""
+
+#: tag.php:35
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: template-front-page.php:34
+msgid ""
+"Elegant multi-purpose <br>\n"
+"                            business template"
+msgstr ""
+
+#: template-front-page.php:40
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.  <br>\n"
+"                            lectus. Cras porta nisl at tincidunt tincidunt."
+msgstr ""
+
+#: template-front-page.php:96
+msgid "Our Services"
+msgstr ""
+
+#: template-front-page.php:97
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam"
+msgstr ""
+
+#: template-front-page.php:113
+msgid "Consultation"
+msgstr ""
+
+#: template-front-page.php:114
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum."
+msgstr ""
